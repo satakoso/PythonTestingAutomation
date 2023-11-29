@@ -36,6 +36,4 @@ class TestMath:
         #self.assertEqual(result,256)
         
         
-        
-if __name__ == '__main__':
-    unittest.main()
+
