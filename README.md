@@ -1,2 +1,2 @@
 # PythonTestingAutomation
-Exercise
+Exercise for code academy
